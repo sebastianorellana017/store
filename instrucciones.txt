@@ -1,0 +1,4 @@
+1) django-admin startproject "nombre"
+2) guardar archivos estaticos py manage.py collectstatic
+3) crear app py manage.py startapp "nombre"
+4) instalar el procedimiento para el upload de img pip install Pillow
