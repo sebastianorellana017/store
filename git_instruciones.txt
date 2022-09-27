@@ -1,0 +1,19 @@
+1- git init
+
+2.1-  git config --global user.name "usuario"
+2.2-  git config --global user.email "correo"
+
+3- git add .   
+
+4- git commit -m "mensaje opcional"
+
+5- git remote add origin https://github.com/sebastianorellana017/store.git
+
+6- git branch -M main
+
+7- git push -u origin main
+
+//para cambios
+8- git add .
+9- git commit -m "cambio uno"
+10- git push
